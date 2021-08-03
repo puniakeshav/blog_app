@@ -74,11 +74,11 @@ class _HomePageState extends State<HomePage> {
         title: Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-          Text('Blog',
+          Text('Blogger',
               style: TextStyle(
                 fontSize: 25,
               ),),
-          Text("APP",
+          Text("Spot",
               style: TextStyle(
                 fontSize: 25,
                 color: Colors.blue,
